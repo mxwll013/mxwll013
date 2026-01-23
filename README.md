@@ -6,4 +6,4 @@ Welcome to my GitHub profile!
 ## About Me
 - 🎓 Currently studying computer science at [McGill University](https://www.mcgill.ca)
 - 💻 Fluent in Python, C++ and Go
-- 🎮 I am currently working on a C++ game engine called [Echo](https://github.com/users/Maxwell013/projects/3)
+- 🎮 I am currently working on a C++ game engine called [Echo](https://github.com/users/mxwll013/projects/4)
