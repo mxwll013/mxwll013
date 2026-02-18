@@ -1,4 +1,4 @@
-# Hi, I'm Maxwell! 👋
+# Hi, I'm Maxence! 👋
 I'm a French Canadian student passionate about software development, fluent in C++, Python and Go.
 
 Welcome to my GitHub profile!
