@@ -6,4 +6,5 @@ Welcome to my GitHub profile!
 ## About Me
 - 🎓 Currently studying computer science at [McGill University](https://www.mcgill.ca)
 - 💻 Fluent in C++, Python and OCaml
+- 📦 Moved to [gitlab](https://gitlab.com/mxwll) because f*ck Microsoft!
 - 🎮 I am currently working on a C++ game engine called [Echo](https://gitlab.com/eep-group/eep)
